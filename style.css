@@ -1,0 +1,17 @@
+/*
+Theme Name: Demo Theme ( child of twentytwelve )
+Theme URI: http://www.greatwebsite.com
+Description: Designed by <a href="http://www.netwakies.com">Goiceanu Ciprian</a>.
+Author: Goiceanu Ciprian
+Version: 1.0.0
+Template: twentytwelve
+Tags: header widget area
+*/
+
+.top {
+    float: right;
+    margin-top: 20px;
+}
+.site-header hgroup {
+	float:left;
+}
