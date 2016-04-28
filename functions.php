@@ -1,4 +1,7 @@
 <?php
+/**
+ * some action hooks here
+ */
 function parent_css_theme_style() {
  wp_enqueue_style( 'parent-style', get_template_directory_uri().'/style.css' );
 }
